@@ -36,7 +36,6 @@ Dedo AI Dedo AI is an innovative console-based application built with Python, le
 >   - [🧪 Tests](#-tests)
 > - [🛠 Project Roadmap](#-project-roadmap)
 > - [🤝 Contributing](#-contributing)
-> - [📄 License](#-license)
 > - [👏 Acknowledgments](#-acknowledgments)
 
 ---
