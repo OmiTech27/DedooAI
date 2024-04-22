@@ -80,7 +80,7 @@ Dedo AI Dedo AI is an innovative console-based application built with Python, le
 
 2. **speech_recognition**: A library for performing speech recognition, allowing Dedoo AI to understand voice commands.
 
-3. **google.generativeai**: An API for accessing advanced AI models and generating text-based responses.
+3. **google.generativeai**: An API for accessing advanced Gemini AI models and generating text-based responses.
 
 4. **datetime**: A module for working with dates and times, used for providing information such as the current time and date.
 
