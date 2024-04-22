@@ -34,7 +34,6 @@ Dedo AI Dedo AI is an innovative console-based application built with Python, le
 >   - [⚙️ Installation](#️-installation)
 >   - [🤖 Running DedooAI](#-running-DedooAI)
 >   - [🧪 Tests](#-tests)
-> - [🛠 Project Roadmap](#-project-roadmap)
 > - [🤝 Contributing](#-contributing)
 > - [👏 Acknowledgments](#-acknowledgments)
 
@@ -141,14 +140,6 @@ To execute tests, run:
 ```sh
 pytest
 ```
-
----
-
-## 🛠 Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
 
 ---
 
