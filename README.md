@@ -49,32 +49,18 @@ Dedo AI Dedo AI is an innovative console-based application built with Python, le
 
 ## 📦 Features
 
-<code>► 
-
-1. **Voice Interaction**: Users can interact with Dedoo AI using natural language voice commands, making communication intuitive and convenient.
-
+<code>► 1. **Voice Interaction**: Users can interact with Dedoo AI using natural language voice commands, making communication intuitive and convenient.
 2. **Task Automation**: Dedoo AI automates various routine tasks, such as checking the time, weather, setting reminders, or scheduling appointments, saving users time and effort.
-
 3. **Personalized Responses**: Dedoo AI provides tailored responses based on the user's preferences, interaction history, and context, enhancing the user experience.
-
 4. **Intelligent Conversations**: Powered by advanced AI algorithms and natural language processing, Dedoo AI engages in meaningful conversations, understands context, and provides relevant information.
-
 5. **Versatility**: Dedoo AI offers a wide range of functionalities, including managing schedules, providing information on various topics, and engaging in casual conversation, catering to diverse user needs.
-
 6. **Integration**: Dedoo AI seamlessly integrates with external APIs and services, allowing users to access real-time data such as weather forecasts, news updates, or calendar events.
-
 7. **Continuous Learning**: Dedoo AI continuously learns from user interactions and feedback, improving its performance and accuracy over time.
-
 8. **Efficient Communication**: Dedoo AI facilitates clear and efficient communication between users and technology, enabling seamless interaction and collaboration.
-
 9. **Customization**: Users can customize Dedoo AI to their preferences, such as choosing preferred language, voice, or specific settings, for a personalized user experience.
-
 10. **Time Saving**: By automating tasks and providing quick access to information, Dedoo AI helps users save time and focus on more important activities.
-
 11. **Enhanced Productivity**: Dedoo AI streamlines workflows, optimizes processes, and reduces manual effort, resulting in increased productivity and efficiency.
-
-12. **Innovation Partner**: Dedoo AI serves as a partner in innovation by fostering creativity, problem-solving, and continuous improvement, driving technological advancements and user satisfaction.
- </code>
+12. **Innovation Partner**: Dedoo AI serves as a partner in innovation by fostering creativity, problem-solving, and continuous improvement, driving technological advancements and user satisfaction.</code>
 
 ---
 
